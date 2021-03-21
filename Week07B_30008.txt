@@ -1,0 +1,4 @@
+nomor 2
+
+program berkerja dengan baik kecuali pada penyimpanan video gradlenya ada yang bermasalah dari sananya. 
+https://github.com/VelixHalim/Week07B_30008 <- untuk B

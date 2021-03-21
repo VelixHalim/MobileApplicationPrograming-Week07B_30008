@@ -9,9 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Week07B_30008">
-        <activity android:name=".DetilVideoActivity"></activity>
-
-        <activity android:name=".DetailVideo"></activity>
+        <activity android:name=".Player"></activity>
+        <activity android:name=".DetilVideoActivity" />
+        <activity android:name=".DetailVideo" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
